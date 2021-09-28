@@ -1,0 +1,21 @@
+.body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactCard {
+  background-color: #7faefa;
+  padding: 20px 0px 10px 0px;
+  margin-bottom: 10px;
+}
